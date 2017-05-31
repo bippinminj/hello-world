@@ -1,2 +1,3 @@
-# hello-world
-Testing repository
+Hi There,
+
+I am bippin minj
